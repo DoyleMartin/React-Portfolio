@@ -62,24 +62,3 @@ const ContactForm = () => {
   export default ContactForm;
 
 
-//   return (
-//     <section>
-//       <h3>Contact Me</h3>
-//       <form id="contact-form" onSubmit={handleSubmit}>
-//         <div>
-//           <label htmlFor="name">Name:</label>
-//           <input type="text" name="name" defaultValue={formState.name} onChange={handleChange} />
-//         </div>
-//         <div>
-//           <label htmlFor="email">Email address:</label>
-//           <input type="email" name="email" defaultValue={formState.email} onChange={handleChange} />
-//         </div>
-//         <div>
-//           <label htmlFor="message">Message:</label>
-//           <textarea name="message" rows="5" defaultValue={formState.message} onChange={handleChange} />
-//         </div>
-//         <button type="submit">Submit</button>
-//       </form>
-//     </section>
-//   );
-// };
