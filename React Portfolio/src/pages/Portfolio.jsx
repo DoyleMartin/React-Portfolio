@@ -4,9 +4,9 @@ const Portfolio = () => {
   const projects = [
     {
       title: 'Project 1',
-      imageUrl: 'https://via.placeholder.com/300', // Replace with your project image URL
-      deployedUrl: 'https://example.com', // Replace with the deployed app URL
-      githubUrl: 'https://github.com/yourusername/project1', // Replace with the GitHub URL
+      imageUrl: 'https://via.placeholder.com/300', 
+      deployedUrl: 'https://example.com', 
+      githubUrl: 'https://github.com/yourusername/project1', 
     },
     {
       title: 'Project 2',
